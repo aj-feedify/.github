@@ -1,2 +1,2 @@
-# .github
+# Feedify
 Feedify - every voice matters
